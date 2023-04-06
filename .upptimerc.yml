@@ -1,16 +1,30 @@
 # Change these first
-owner: SergioP-Hackademy # Your GitHub organization or username, where this repository lives
+owner: Sergiop-Hackademy # Your GitHub organization or username, where this repository lives
 repo: status_Parco # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Kraken
+    url: https://kraken.parcoapp.com
+  - name: Autotraze - dev
+    url: https://net.env.parcoapp.com/autotraze
+  - name: Campaigns - dev
+    url: https://net.env.parcoapp.com/campaigns
+  - name: Carts - dev
+    url: https://net.env.parcoapp.com/carts/status
+  - name: Hairs - dev
+    url: https://net.env.parcoapp.com/hairs
+  - name: News - dev
+    url: https://net.env.parcoapp.com/news
+  - name: Orchestrator - dev
+    url: https://net.env.parcoapp.com/orchestrator
+  - name: Promocao - dev
+    url: https://net.env.parcoapp.com/promocao
+  - name: Services - dev
+    url: https://net.env.parcoapp.com/services
+  - name: Users - dev
+    url: https://net.env.parcoapp.com/users/status
+  - name: Wallet - dev
+    url: https://net.env.parcoapp.com/wallet
   - name: Autotraze Prod
     url: $SECRET_SITE_AUTOTRAZE_PROD
   - name: Campaigns Prod
@@ -18,9 +32,13 @@ sites:
   - name: Carts Prod
     url: $SECRET_SITE_CARTS_PROD
 
+
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: /upptime
+
   baseUrl: /status_Parco
   logoUrl: https://cdn.parcoapp.com/assets/app/PARCO_LOGO_2.png
   name: Upptime
@@ -34,6 +52,4 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
-
 
