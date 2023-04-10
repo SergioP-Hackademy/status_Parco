@@ -388,19 +388,19 @@
     "url": "$SECRET_SITE_TESSERACT_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tesseract-prod",
-    "status": "down",
-    "uptime": "4.75%",
-    "uptimeDay": "4.75%",
-    "uptimeWeek": "4.75%",
-    "uptimeMonth": "4.75%",
-    "uptimeYear": "4.75%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "14.14%",
+    "uptimeDay": "14.14%",
+    "uptimeWeek": "14.14%",
+    "uptimeMonth": "14.14%",
+    "uptimeYear": "14.14%",
+    "time": 137,
+    "timeDay": 137,
+    "timeWeek": 137,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {
-      "2023-04-10": 0
+      "2023-04-10": 1
     }
   },
   {
