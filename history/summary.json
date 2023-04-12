@@ -22,18 +22,20 @@
     "url": "https://net.env.parcoapp.com/autotraze",
     "icon": "https://icons.duckduckgo.com/ip3/net.env.parcoapp.com.ico",
     "slug": "autotraze-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 358,
-    "timeDay": 408,
-    "timeWeek": 358,
-    "timeMonth": 358,
-    "timeYear": 358,
-    "dailyMinutesDown": {}
+    "time": 359,
+    "timeDay": 390,
+    "timeWeek": 359,
+    "timeMonth": 359,
+    "timeYear": 359,
+    "dailyMinutesDown": {
+      "2023-04-12": 0
+    }
   },
   {
     "name": "Campaigns - dev",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/net.env.parcoapp.com.ico",
     "slug": "campaigns-dev",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 74,
     "timeDay": 67,
     "timeWeek": 74,
     "timeMonth": 74,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2023-04-12": 0
+      "2023-04-12": 9
     }
   },
   {
@@ -61,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/net.env.parcoapp.com.ico",
     "slug": "carts-dev",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 76,
     "timeDay": 67,
     "timeWeek": 76,
     "timeMonth": 76,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2023-04-12": 0
+      "2023-04-12": 9
     }
   },
   {
@@ -99,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/net.env.parcoapp.com.ico",
     "slug": "news-dev",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 75,
     "timeDay": 67,
     "timeWeek": 75,
     "timeMonth": 75,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2023-04-12": 0
+      "2023-04-12": 9
     }
   },
   {
@@ -119,18 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/net.env.parcoapp.com.ico",
     "slug": "orchestrator-dev",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 75,
     "timeDay": 68,
     "timeWeek": 75,
     "timeMonth": 75,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2023-04-12": 0
+      "2023-04-12": 9
     }
   },
   {
@@ -139,18 +141,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/net.env.parcoapp.com.ico",
     "slug": "promocao-dev",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 82,
     "timeDay": 69,
     "timeWeek": 82,
     "timeMonth": 82,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2023-04-12": 0
+      "2023-04-12": 9
     }
   },
   {
@@ -159,18 +161,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/net.env.parcoapp.com.ico",
     "slug": "services-dev",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 76,
     "timeDay": 73,
     "timeWeek": 76,
     "timeMonth": 76,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2023-04-12": 0
+      "2023-04-12": 9
     }
   },
   {
@@ -197,18 +199,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/net.env.parcoapp.com.ico",
     "slug": "wallet-dev",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 75,
     "timeDay": 69,
     "timeWeek": 75,
     "timeMonth": 75,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2023-04-12": 0
+      "2023-04-12": 9
     }
   },
   {
@@ -403,11 +405,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tesseract-prod",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
     "time": 150,
     "timeDay": 151,
     "timeWeek": 150,
