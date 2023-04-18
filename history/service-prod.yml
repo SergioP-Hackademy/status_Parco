@@ -1,7 +1,7 @@
 url: $SECRET_SITE_SERVICE_PROD
 status: up
 code: 200
-responseTime: 150
-lastUpdated: 2023-04-17T23:12:53.730Z
+responseTime: 384
+lastUpdated: 2023-04-18T23:12:58.281Z
 startTime: Mon Apr 10 2023 15:29:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
