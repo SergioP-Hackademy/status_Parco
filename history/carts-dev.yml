@@ -1,7 +1,7 @@
 url: https://net.env.parcoapp.com/carts/status
-status: down
-code: 503
-responseTime: 35
-lastUpdated: 2023-05-20T15:53:25.550Z
+status: up
+code: 200
+responseTime: 107
+lastUpdated: 2023-05-20T16:09:48.806Z
 startTime: Thu Apr 06 2023 22:08:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
