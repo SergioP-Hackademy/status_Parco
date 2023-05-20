@@ -84,18 +84,20 @@
     "url": "https://net.env.parcoapp.com/hairs",
     "icon": "https://icons.duckduckgo.com/ip3/net.env.parcoapp.com.ico",
     "slug": "hairs-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 79,
-    "timeDay": 59,
-    "timeWeek": 71,
-    "timeMonth": 80,
-    "timeYear": 79,
-    "dailyMinutesDown": {}
+    "time": 78,
+    "timeDay": 58,
+    "timeWeek": 70,
+    "timeMonth": 79,
+    "timeYear": 78,
+    "dailyMinutesDown": {
+      "2023-05-20": 0
+    }
   },
   {
     "name": "News - dev",
