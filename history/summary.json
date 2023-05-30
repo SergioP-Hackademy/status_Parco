@@ -245,19 +245,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "access-prod",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 391,
     "timeDay": 337,
     "timeWeek": 338,
     "timeMonth": 453,
     "timeYear": 391,
-    "dailyMinutesDown": {
-      "2023-05-30": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Autotraze Prod",
@@ -305,18 +303,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "carts-prod",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 303,
     "timeDay": 333,
     "timeWeek": 307,
     "timeMonth": 348,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2023-05-30": 10,
       "2023-04-06": 16
     }
   },
@@ -346,19 +343,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ghostbuster-prod",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 371,
     "timeDay": 285,
     "timeWeek": 306,
     "timeMonth": 443,
     "timeYear": 371,
-    "dailyMinutesDown": {
-      "2023-05-30": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hairs Prod",
@@ -384,19 +379,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "news-prod",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 273,
     "timeDay": 340,
     "timeWeek": 291,
     "timeMonth": 290,
     "timeYear": 273,
-    "dailyMinutesDown": {
-      "2023-05-30": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Orchestrator Prod",
@@ -404,19 +397,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "orchestrator-prod",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 253,
     "timeDay": 310,
     "timeWeek": 281,
     "timeMonth": 258,
     "timeYear": 253,
-    "dailyMinutesDown": {
-      "2023-05-30": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Promocao Prod",
@@ -424,19 +415,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "promocao-prod",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 276,
     "timeDay": 298,
     "timeWeek": 279,
     "timeMonth": 307,
     "timeYear": 276,
-    "dailyMinutesDown": {
-      "2023-05-30": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tesseract - Prod",
@@ -463,19 +452,19 @@
     "url": "$SECRET_SITE_SERVICE_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "service-prod",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 247,
-    "timeDay": 342,
-    "timeWeek": 283,
-    "timeMonth": 248,
-    "timeYear": 247,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 250,
+    "timeDay": 362,
+    "timeWeek": 297,
+    "timeMonth": 252,
+    "timeYear": 250,
     "dailyMinutesDown": {
-      "2023-05-30": 10
+      "2023-05-30": 19
     }
   },
   {
@@ -502,18 +491,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wallet-prod",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 266,
     "timeDay": 281,
     "timeWeek": 275,
     "timeMonth": 290,
     "timeYear": 266,
-    "dailyMinutesDown": {
-      "2023-05-30": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
