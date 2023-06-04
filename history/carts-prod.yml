@@ -1,7 +1,7 @@
 url: $SECRET_SITE_CARTS_PROD
 status: up
 code: 200
-responseTime: 439
-lastUpdated: 2023-06-03T23:12:12.520Z
+responseTime: 256
+lastUpdated: 2023-06-04T23:12:19.229Z
 startTime: Thu Apr 06 2023 21:06:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
