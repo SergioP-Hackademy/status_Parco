@@ -1,7 +1,7 @@
 url: $SECRET_SITE_FIDELITY_PROD
-status: down
-code: 503
-responseTime: 160
-lastUpdated: 2023-06-13T04:47:29.305Z
+status: up
+code: 200
+responseTime: 327
+lastUpdated: 2023-06-13T05:13:41.914Z
 startTime: Mon Apr 10 2023 15:29:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
