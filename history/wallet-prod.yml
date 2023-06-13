@@ -1,7 +1,7 @@
 url: $SECRET_SITE_WALLET_PROD
-status: up
-code: 200
-responseTime: 159
-lastUpdated: 2023-06-12T23:12:34.706Z
+status: down
+code: 503
+responseTime: 102
+lastUpdated: 2023-06-13T04:47:41.552Z
 startTime: Mon Apr 10 2023 15:29:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
