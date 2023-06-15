@@ -5,26 +5,26 @@ repo: status_Parco # The name of this repository
 sites:
   - name: Kraken
     url: https://kraken.parcoapp.com
-  - name: Autotraze - dev
-    url: https://net.env.parcoapp.com/autotraze
-  - name: Campaigns - dev
-    url: https://net.env.parcoapp.com/campaigns
-  - name: Carts - dev
-    url: https://net.env.parcoapp.com/carts/status
-  - name: Hairs - dev
-    url: https://net.env.parcoapp.com/hairs
-  - name: News - dev
-    url: https://net.env.parcoapp.com/news
-  - name: Orchestrator - dev
-    url: https://net.env.parcoapp.com/orchestrator
-  - name: Promocao - dev
-    url: https://net.env.parcoapp.com/promocao
-  - name: Services - dev
-    url: https://net.env.parcoapp.com/services
-  - name: Users - dev
-    url: https://net.env.parcoapp.com/users/status
-  - name: Wallet - dev
-    url: https://net.env.parcoapp.com/wallet
+  # - name: Autotraze - dev
+  #   url: https://net.env.parcoapp.com/autotraze
+  # - name: Campaigns - dev
+  #   url: https://net.env.parcoapp.com/campaigns
+  # - name: Carts - dev
+  #   url: https://net.env.parcoapp.com/carts/status
+  # - name: Hairs - dev
+  #   url: https://net.env.parcoapp.com/hairs
+  # - name: News - dev
+  #   url: https://net.env.parcoapp.com/news
+  # - name: Orchestrator - dev
+  #   url: https://net.env.parcoapp.com/orchestrator
+  # - name: Promocao - dev
+  #   url: https://net.env.parcoapp.com/promocao
+  # - name: Services - dev
+  #   url: https://net.env.parcoapp.com/services
+  # - name: Users - dev
+  #   url: https://net.env.parcoapp.com/users/status
+  # - name: Wallet - dev
+  #   url: https://net.env.parcoapp.com/wallet
 #   Prod  
   - name: Access Prod
     url: $SECRET_SITE_ACCESS_PROD
