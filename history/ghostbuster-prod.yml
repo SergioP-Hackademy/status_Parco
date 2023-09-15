@@ -1,7 +1,7 @@
 url: $SECRET_SITE_GHOSTBUSTER_PROD
 status: down
 code: 503
-responseTime: 226
-lastUpdated: 2023-09-14T23:12:33.731Z
+responseTime: 324
+lastUpdated: 2023-09-15T23:11:39.634Z
 startTime: 2023-04-10T15:29:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
