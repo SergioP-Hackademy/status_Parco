@@ -36,12 +36,8 @@ sites:
     url: $SECRET_SITE_CARTS_PROD
   - name: Fidelity Prod
     url: $SECRET_SITE_FIDELITY_PROD
-  - name: Ghostbuster Prod
-    url: $SECRET_SITE_GHOSTBUSTER_PROD
   - name: Hairs Prod
     url: $SECRET_SITE_HAIRS_PROD
-  - name: News Prod
-    url: $SECRET_SITE_NEWS_PROD
   - name: Orchestrator Prod
     url: $SECRET_SITE_ORCHESTRATOR_PROD
   - name: Promocao Prod
