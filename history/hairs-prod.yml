@@ -1,7 +1,7 @@
 url: $SECRET_SITE_HAIRS_PROD
-status: down
-code: 404
-responseTime: 195
-lastUpdated: 2024-07-16T23:34:32.734Z
+status: up
+code: 200
+responseTime: 358
+lastUpdated: 2024-07-16T23:44:05.294Z
 startTime: 2023-04-10T15:29:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
