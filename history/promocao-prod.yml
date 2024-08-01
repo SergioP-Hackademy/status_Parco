@@ -1,7 +1,7 @@
 url: $SECRET_SITE_PROMOCAO_PROD
-status: up
-code: 200
-responseTime: 215
-lastUpdated: 2024-07-31T23:14:00.914Z
+status: down
+code: 503
+responseTime: 240
+lastUpdated: 2024-08-01T05:48:55.762Z
 startTime: 2023-04-10T15:29:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
