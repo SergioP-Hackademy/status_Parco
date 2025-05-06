@@ -1,7 +1,7 @@
 url: $SECRET_SITE_AUTOTRAZE_PROD
 status: down
 code: 503
-responseTime: 440
-lastUpdated: 2025-05-05T23:17:06.497Z
+responseTime: 256
+lastUpdated: 2025-05-06T23:16:43.037Z
 startTime: 2023-04-06T21:06:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
