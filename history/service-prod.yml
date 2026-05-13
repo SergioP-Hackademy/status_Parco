@@ -1,7 +1,7 @@
 url: $SECRET_SITE_SERVICE_PROD
 status: down
 code: 404
-responseTime: 135
-lastUpdated: 2026-05-13T00:00:10.538Z
+responseTime: 120
+lastUpdated: 2026-05-13T23:59:28.708Z
 startTime: 2023-04-10T15:29:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
